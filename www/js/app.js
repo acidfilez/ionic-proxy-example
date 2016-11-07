@@ -12,7 +12,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
 })
 
 // .constant('ApiEndpoint', {
-//   url: 'http://localhost:3000/api/endpoint'
+//   url: 'http://localhost:8100/api'
 // })
 
 .run(function($ionicPlatform) {
